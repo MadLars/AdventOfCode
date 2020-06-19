@@ -24,5 +24,5 @@ for noun in range(100):
         output = process(input)
 
         if output == 19690720:
-            print(100 * noun + verb)
+            print("SOLUTION:", 100 * noun + verb)
             break
